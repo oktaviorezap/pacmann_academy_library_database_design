@@ -9,9 +9,9 @@
 <br>and growth of the library network while ensuring data integrity, security, and compliance with organizational policies.
 
 # Exercise Answer , Dummy Data in Python and SQL Script
-1. Performance Analysis Answer (Exercise) : [Exercise SQL Week 8 (Mentoring 4) Answer Link](https://github.com/oktaviorezap/PacmannAcademy-Online-Shop-Performance-Analysis-with-SQL-Advance/blob/main/Exercise%20Week%206%20-%20Oktavio%20Reza%20Putra.pdf)
-2. Dummy Data by Python : [Dummy Data by Python](https://github.com/oktaviorezap/PacmannAcademy-Online-Shop-Performance-Analysis-with-SQL-Advance/blob/main/Exercise%20Week%206%20-%20Oktavio%20Reza%20Putra.pdf)
-3. SQL Script with DBeaver : [SQL Script Link](https://github.com/oktaviorezap/PacmannAcademy-Online-Shop-Performance-Analysis-with-SQL-Advance/blob/main/Oktavio%20Reza%20Putra_Exercise%20Week%206%20-%20Mentoring%203.sql)
+1. Performance Analysis Answer (Exercise) : [Exercise SQL Week 8 (Mentoring 4) Answer Link](https://github.com/oktaviorezap/pacmann_academy_library_database_design/blob/main/Exercise%20Week%208%20-%20Oktavio%20Reza%20Putra.pdf)
+2. Dummy Data by Python : [Dummy Data by Python](https://github.com/oktaviorezap/pacmann_academy_library_database_design/blob/main/Dummy%20Data%20Exercise%20Week%208.ipynb)
+3. SQL Script with DBeaver : [SQL Script Link](https://github.com/oktaviorezap/pacmann_academy_library_database_design/blob/main/Oktavio%20Reza%20Putra_Exercise%20Week%208%20-%20Mentoring%204.sql)
 
 # ERD Design
 ![ERD - Exercise Week 8 Mentoring 4](https://github.com/user-attachments/assets/64a05939-0c73-4124-b8e7-99951d12405e)
