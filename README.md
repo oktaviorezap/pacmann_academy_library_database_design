@@ -12,3 +12,6 @@
 # ERD Design
 ![ERD - Exercise Week 8 Mentoring 4](https://github.com/user-attachments/assets/64a05939-0c73-4124-b8e7-99951d12405e)
 
+# References
+1. https://medium.com/@danishman/creating-a-modern-library-database-b7dff4313f28
+2.	https://vertabelo.com/blog/database-for-library-system/
