@@ -1,6 +1,6 @@
 # E-Library Database Design
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ed871daa-d471-461c-b566-b57ca0e1cb1c" width="600" height="400">
+  <img src="https://github.com/user-attachments/assets/a808c36d-3c62-4811-a976-73cc2fde7a42" width="600" height="400">
 </div>
 
 <br>The design of the E-Library Database is essential for the smooth operation of the library system, ensuring that data is managed efficiently, 
