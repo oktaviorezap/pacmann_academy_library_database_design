@@ -1,5 +1,7 @@
 # E-Library Database Design
-![Library](https://github.com/user-attachments/assets/2041b976-94a0-4b4b-9eb3-475eeac6c8d4)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2041b976-94a0-4b4b-9eb3-475eeac6c8d4" width="400" height="400">
+</div>
 
 <br>The design of the E-Library Database is essential for the smooth operation of the library system, ensuring that data is managed efficiently, 
 <br>that resources are allocated correctly, and that users have a positive experience when interacting with the system. 
