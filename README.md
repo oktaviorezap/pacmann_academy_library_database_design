@@ -9,4 +9,6 @@
 <br>and growth of the library network while ensuring data integrity, security, and compliance with organizational policies.
 
 
-#
+# ERD Design
+![ERD - Exercise Week 8 Mentoring 4](https://github.com/user-attachments/assets/64a05939-0c73-4124-b8e7-99951d12405e)
+
